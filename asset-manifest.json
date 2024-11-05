@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.82859849.css",
-    "main.js": "/static/js/main.de87f8f3.js",
+    "main.js": "/static/js/main.79c132f4.js",
     "static/js/787.35df5a57.chunk.js": "/static/js/787.35df5a57.chunk.js",
     "static/media/set.jpg": "/static/media/set.049f3133b9dcad0a1ae0.jpg",
     "static/media/neck.png": "/static/media/neck.5b36e21c6a6067f82410.png",
@@ -47,11 +47,11 @@
     "static/media/ITC-Benguiat-Bold.ttf": "/static/media/ITC-Benguiat-Bold.d45a20da6c3b8e4682a0.ttf",
     "index.html": "/index.html",
     "main.82859849.css.map": "/static/css/main.82859849.css.map",
-    "main.de87f8f3.js.map": "/static/js/main.de87f8f3.js.map",
+    "main.79c132f4.js.map": "/static/js/main.79c132f4.js.map",
     "787.35df5a57.chunk.js.map": "/static/js/787.35df5a57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82859849.css",
-    "static/js/main.de87f8f3.js"
+    "static/js/main.79c132f4.js"
   ]
 }

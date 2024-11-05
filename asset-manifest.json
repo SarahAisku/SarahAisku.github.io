@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.82859849.css",
-    "main.js": "/static/js/main.79c132f4.js",
+    "main.js": "/static/js/main.d416c65f.js",
     "static/js/787.35df5a57.chunk.js": "/static/js/787.35df5a57.chunk.js",
     "static/media/set.jpg": "/static/media/set.049f3133b9dcad0a1ae0.jpg",
     "static/media/neck.png": "/static/media/neck.5b36e21c6a6067f82410.png",
@@ -28,7 +28,7 @@
     "static/media/Gotham-Thin.ttf": "/static/media/Gotham-Thin.67d9a1ce07a626fdbf00.ttf",
     "static/media/Gotham-Light.ttf": "/static/media/Gotham-Light.a21d1577f411612a2753.ttf",
     "static/media/new.jpg": "/static/media/new.0bf732683ca00d8bd666.jpg",
-    "static/media/219871781_145982067613444__n.jpg": "/static/media/219871781_145982067613444_7859460934201707774_n.3aed8563b23f2631e2f1.jpg",
+    "static/media/aa.jpg": "/static/media/aa.3aed8563b23f2631e2f1.jpg",
     "static/media/255527568___n.jpg": "/static/media/255527568_2865832720373941_9113786885021672264_n.e69ab408fd1698394c0b.jpg",
     "static/media/269990656_226252019692239__n.jpg": "/static/media/269990656_226252019692239_8456683516231745037_n.0c86459a6dc72172a5d4.jpg",
     "static/media/269742567___n.jpg": "/static/media/269742567_2745435245756977_1205159702074210010_n.a11ad1357215ec27d71b.jpg",
@@ -47,11 +47,11 @@
     "static/media/ITC-Benguiat-Bold.ttf": "/static/media/ITC-Benguiat-Bold.d45a20da6c3b8e4682a0.ttf",
     "index.html": "/index.html",
     "main.82859849.css.map": "/static/css/main.82859849.css.map",
-    "main.79c132f4.js.map": "/static/js/main.79c132f4.js.map",
+    "main.d416c65f.js.map": "/static/js/main.d416c65f.js.map",
     "787.35df5a57.chunk.js.map": "/static/js/787.35df5a57.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82859849.css",
-    "static/js/main.79c132f4.js"
+    "static/js/main.d416c65f.js"
   ]
 }

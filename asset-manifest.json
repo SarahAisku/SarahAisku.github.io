@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb46c45b.css",
-    "main.js": "/static/js/main.239d9333.js",
+    "main.css": "/static/css/main.82859849.css",
+    "main.js": "/static/js/main.2af16995.js",
     "static/js/787.35df5a57.chunk.js": "/static/js/787.35df5a57.chunk.js",
     "static/media/set.jpg": "/static/media/set.049f3133b9dcad0a1ae0.jpg",
     "static/media/neck.png": "/static/media/neck.5b36e21c6a6067f82410.png",
@@ -46,12 +46,12 @@
     "static/media/Departura-Extra-Light.ttf": "/static/media/Departura-Extra-Light.c5b181f5f13e186b9bfe.ttf",
     "static/media/ITC-Benguiat-Bold.ttf": "/static/media/ITC-Benguiat-Bold.d45a20da6c3b8e4682a0.ttf",
     "index.html": "/index.html",
-    "main.fb46c45b.css.map": "/static/css/main.fb46c45b.css.map",
-    "main.239d9333.js.map": "/static/js/main.239d9333.js.map",
+    "main.82859849.css.map": "/static/css/main.82859849.css.map",
+    "main.2af16995.js.map": "/static/js/main.2af16995.js.map",
     "787.35df5a57.chunk.js.map": "/static/js/787.35df5a57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb46c45b.css",
-    "static/js/main.239d9333.js"
+    "static/css/main.82859849.css",
+    "static/js/main.2af16995.js"
   ]
 }
